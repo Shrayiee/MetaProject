@@ -3,9 +3,9 @@ from fastapi.responses import PlainTextResponse
 
 from utils.fb_utils import decrypt_request, encrypt_response
 from core.keys import PHONE_NUMBER_PRIVATE_KEY
-asit_router6 = APIRouter()
+shray_router6 = APIRouter()
 
-@asit_router6.post("/flow-test")
+@shray_router6.post("/flow-test")
 async def flow1(body: dict = Body()):
     encrypted_flow_data_b64 = body['encrypted_flow_data']
     encrypted_aes_key_b64 = body['encrypted_aes_key']
