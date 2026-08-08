@@ -11,9 +11,9 @@ import string
 
 models.Base.metadata.create_all(bind=database_connection.engine)
 
-asit_db_dynamic_router = APIRouter()
+shray_db_dynamic_router = APIRouter()
 
-@asit_db_dynamic_router.post("/test-flow")
+@shray_db_dynamic_router.post("/test-flow")
 async def flow1(body: dict = Body(),db:Session=Depends(database_connection.get_db)):
     encrypted_flow_data_b64 = body['encrypted_flow_data']
     encrypted_aes_key_b64 = body['encrypted_aes_key']
