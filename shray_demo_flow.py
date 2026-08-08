@@ -6,7 +6,7 @@ import json
 from utils.fb_utils import decrypt_request, encrypt_response
 from core.keys import PHONE_NUMBER_PRIVATE_KEY
 
-asit_router = APIRouter()
+shray_router = APIRouter()
 
 
 department_location={
@@ -43,7 +43,7 @@ department_location={
 }
  
 
-@asit_router.post("/test-flow")
+@shray_router.post("/test-flow")
 async def flow1(body: dict = Body()):
     encrypted_flow_data_b64 = body['encrypted_flow_data']
     encrypted_aes_key_b64 = body['encrypted_aes_key']
