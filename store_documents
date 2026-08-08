@@ -1,0 +1,30 @@
+[
+    {
+        "file_name": "Doc file f54c.jpg",
+        "media_id": "f54c2a2bb231c870e",
+        "cdn_url": "EXAMPLE_DATA__CDN_URL_WILL_COME_IN_THIS_FIELD",
+        "encryption_metadata": {
+            "encryption_key": "XXX",
+            "hmac_key": "XXX",
+            "hmac": "XXX",
+            "iv": "XXX",
+            "plaintext_hash": "XXX",
+            "encrypted_hash": "XXX"
+        }
+    }
+][
+    {
+        "file_name": "Doc file f54c.jpg",
+        "media_id": "f54c2a2bb231c870e",
+        "cdn_url": "EXAMPLE_DATA__CDN_URL_WILL_COME_IN_THIS_FIELD",
+        "encryption_metadata": {
+            "encryption_key": "XXX",
+            "hmac_key": "XXX",
+            "hmac": "XXX",
+            "iv": "XXX",
+            "plaintext_hash": "XXX",
+            "encrypted_hash": "XXX"
+        },
+        "name_of_document": "joint photo of husband and wife"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "joint_photo",
+        "title": "joint photo"
+    },
+    {
+        "id": "applicant_caste_certificate",
+        "title": "caste certificate"
+    },
+    {
+        "id": "spouse_caste_certificate",
+        "title": "spouse caste certificate"
+    },
+    {
+        "id": "applicant_birth_certificate",
+        "title": "applicant birth certificate"
+    }
+]

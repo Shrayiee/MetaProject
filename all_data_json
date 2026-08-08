@@ -1,0 +1,107 @@
+{
+    "husband_name": "jdhdhd jdbddb",
+    "adhar_card_husband": "123456789012",
+    "address_of_husband": "bshshsd",
+    "city_of_husband": "bdhdvs",
+    "district_selected_by_husband": "Bhadrak",
+    "block_selected_by_husband": "Dhamnagar",
+    "pin_of_husband": "123456",
+    "state_of_husband": "odisha",
+    "address_before_marriage_husband": "bshshsd",
+    "city_before_marriage_husband": "bdhdvs",
+    "district_selected_by_husband_before_marriage": "Bhadrak",
+    "block_selected_by_husband_before_marriage": "Dhamnagar",
+    "pin_of_husband_before_marriage": "123456",
+    "state_of_husband_before_marriage": "odisha",
+    "wife_name": "uehhed hdhd",
+    "wife_adhar_card": "123456789012",
+    "address_of_wife": "jehdhs",
+    "city_of_wife": "hehehd",
+    "district_selected_by_wife": "Boudh",
+    "block_selected_by_wfe": "Kantamal",
+    "pin_of_wife": "123456",
+    "state_of_wife": "odisha",
+    "address_before_marriage": "jehdhs",
+    "city_before_marriage": "hehehd",
+    "district_selected_by_wife_before_marriage": "Boudh",
+    "block_selected_by_wife_before_marriage": "Kantamal",
+    "pin_of_wife_before_marriage": "123456",
+    "state_of_wife_before_marriage": "odisha",
+    "occupation_of_husband": "hshshs ",
+    "income_of_husband": "123",
+    "occupation_of_wife": "hshshs",
+    "income_of_wife": "6262",
+    "husband_wife_sc_category": "Wife",
+    "subcaste_info": "Amath",
+    "birthday_of_husband": "1935-01-20",
+    "husband_age_till_today": "90 years 1 months 19 days",
+    "birthday_of_wife": "1935-01-31",
+    "wife_age_till_today": "90 years 1 months 8 days",
+    "actual_date_of_marriage": "2025-03-23",
+    "marriage_date_of_husband_wife": "0 years -1 months 16 days",
+    "marriage_resgistered_or_not": "No",
+    "is_it_first_marriage_of_husband": "Yes",
+    "is_it_first_marriage_of_wife": "Yes",
+    "anybody_received_grant_earlier": "No",
+    "bank_name": "State Bank of India",
+    "branch_name": "ALGINIA",
+    "ifsc_code": "SBIN0005077",
+    "account_number": "65658649494",
+    "account_holder_name": "hdhuddb",
+    "joint photo of husband and wife": [
+        {
+            "file_name": "76786f77-7fce-4b12-bbb5-aa249556f812.jpg",
+            "media_id": "6d4427c0-d6b1-4cb3-810e-8461f684a59e",
+            "cdn_url": "https://mmg.whatsapp.net/v/t62.66612-24/13749069_680435161117297_4542352501312268078_n.enc?ccb=11-4&oh=01_Q5AaIIl1BZSiowjFFXiXnkmEugpUelfVwn4RiFwhGfI6E034&oe=67F7BDA8&_nc_sid=5e03e0&mms3=true",
+            "encryption_metadata": {
+                "encryption_key": "pdHJukinWNwn3Rp85om4PatI18yPm6JQr4VqGbNF3vQ=",
+                "hmac_key": "JU/uMUvRj0hy7gZv74YNGnwfeO/Dga9m8nAr6xeviOM=",
+                "iv": "taWa9T8LEWI9wO9I93P6Ng==",
+                "plaintext_hash": "OoEDXD/UOphtPTJ4iWb9/HHiADnZ0AtRy5QutAR7egQ=",
+                "encrypted_hash": "OzZfRJwIqVlCrhdqpS6J6tqfUl4w/O1hLQNHAdojV4k="
+            }
+        }
+    ],
+    "applicant caste certificate": [
+        {
+            "file_name": "51f014de-7751-4e4e-ac3d-9a293b097b05.jpg",
+            "media_id": "2354febb-2add-4105-905a-0313b685a444",
+            "cdn_url": "https://mmg.whatsapp.net/v/t62.66612-24/11728517_1056412516284300_1055008660591462321_n.enc?ccb=11-4&oh=01_Q5AaIM7ou-D5nxFRKq6RCNQ7lxJjTg6HitVA6bgzwq5YVRLA&oe=67F7C6C3&_nc_sid=5e03e0&mms3=true",
+            "encryption_metadata": {
+                "encryption_key": "7HQTnDD7prO6ZezC+FaHUbeljxReHSvgBfAhtzNBu3s=",
+                "hmac_key": "NWYtTxbbw78jYCA7u/wT6QaomY+Kj/HFUdhP4qySTGA=",
+                "iv": "JBpZ4A5D12+BS5/4TMT3yg==",
+                "plaintext_hash": "IlUdw0PG8fE+nfWxWNwCVUlDulIXfOCJUnm2LK2GEgg=",
+                "encrypted_hash": "AidWTCrY0/ME3NxL4U6T6mvLWoh+fSqkvMaflmVRmIQ="
+            }
+        }
+    ],
+    "spouse caste certificate": [
+        {
+            "file_name": "694c6c07-a7fb-4618-9fae-8234dcb31752.jpg",
+            "media_id": "573686e6-9927-47f6-b1f7-bfabc5cd2131",
+            "cdn_url": "https://mmg.whatsapp.net/v/t62.66612-24/29986601_1692441258009794_2935925389152604177_n.enc?ccb=11-4&oh=01_Q5AaIKxEou6sxhB33VGOMbz-hA5N8Z54NqxZ6JaYEaYlSZAl&oe=67F7C70C&_nc_sid=5e03e0&mms3=true",
+            "encryption_metadata": {
+                "encryption_key": "2Q565Xj/C9X7kpGiMJtoOH1VgsGNYVsDB9AqyozcT50=",
+                "hmac_key": "L4Gok0fuPjslr0KClLDjyrPqw3/OhreXRz+JYFHNaMc=",
+                "iv": "67Kubbqv2GxDaKXlLOvO1w==",
+                "plaintext_hash": "NTXYJ2COnjdhe8DqRGrYY/e7Ev5Txz0YiiG0C27+vqw=",
+                "encrypted_hash": "UWqS2ZaXBXWPthlWusKDFaqBhsNgOJs20sHRBpeoRw8="
+            }
+        }
+    ],
+    "applicant birth certificate": [
+        {
+            "file_name": "2d5dea11-d1d4-49dc-beca-f351492921f3.jpg",
+            "media_id": "c094fe84-bb12-4b4a-978a-b19f9f9adbc5",
+            "cdn_url": "https://mmg.whatsapp.net/v/t62.66612-24/12089352_1688059981786785_5053793484397288880_n.enc?ccb=11-4&oh=01_Q5AaIGppTvLmW9mGw_QZkpaLL_cJX5jtxAOqmg6m9DvvibE3&oe=67F7A884&_nc_sid=5e03e0&mms3=true",
+            "encryption_metadata": {
+                "encryption_key": "ibV1sMQojZz/lEm9N7TMUUlHZ3WdgjTM7cAG4BCNZZE=",
+                "hmac_key": "6wInTGkjSIor/KEchEkmmAN3pfaarHItE4wggEa6V00=",
+                "iv": "w2cI1Hw4Ag6/Awj02KNeqQ==",
+                "plaintext_hash": "fC98B/NilDTJABY7X+mtZBvWB7JlUHQWE34Ur6fa2ds=",
+                "encrypted_hash": "YhP1uHclgVqUiXfAZFfiizh89iVVGvdgQDG9Lx3lrFQ="
+            }
+        }
+    ]
+}
